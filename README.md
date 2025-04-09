@@ -15,9 +15,9 @@ This repository provides Python code for demonstrating the **Embedded Constraint
 
 ## Highlight
 
-•	A model-free RTO framework, that embeds Bayesian optimization with constraint control, ensuring no steady-state violations.
-•	Efficient handling of unknown constraints by combining process control concepts with Bayesian optimization.
-•	Unknown constraints managed without relying on additional probabilistic surrogate models, and their associated assumptions.
-•	Demonstrated across four benchmark case studies. 
+-	A model-free RTO framework, that embeds Bayesian optimization with constraint control, ensuring no steady-state violations.
+-	Efficient handling of unknown constraints by combining process control concepts with Bayesian optimization.
+-	Unknown constraints managed without relying on additional probabilistic surrogate models, and their associated assumptions.
+-	Demonstrated across different benchmark case studies. 
 
 
