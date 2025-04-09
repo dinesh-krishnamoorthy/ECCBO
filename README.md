@@ -10,7 +10,7 @@ This repository provides Python code for demonstrating the **Embedded Constraint
 
 
 <p align="center">
-  <img src="figures/ECCBO_arc.png" width="500" alt="ECCBO architecture" />
+  <img src="figures/ECCBO_arc.png" width="700" alt="ECCBO architecture" />
 </p>
 
 ## Highlight
