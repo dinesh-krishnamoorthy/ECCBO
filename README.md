@@ -6,8 +6,6 @@ This repository provides Python code for demonstrating the **Embedded Constraint
 > *Dinesh Krishnamoorthy*  
 > Submitted to the Journal of Process Control
 
-## 🧠 Overview
-
 
 <p align="center">
   <img src="figures/ECCBO_arc.png" width="700" alt="ECCBO architecture" />
